@@ -11,11 +11,13 @@ The primary objectives of this analysis are:
 This Project serves as a valuable tool for understanding the dynamics of the EV market in India and supports data-driven decision-making to accelerate the adoption of electric vehicles in the country.
 
 
-###Introduction
+Introduction
+
 The electric vehicle market in India has witnessed significant growth in recent years, driven by government incentives, rising environmental awareness, and technological advancements. It provides an in-depth analysis of EV sales trends, regional adoption, and the growth outlook for the sector. Understanding these factors is essential for manufacturers, policymakers, and investors aiming to promote EV adoption and expand market share in a rapidly evolving industry.
 
 
-##Data Sources
+Data Sources
+
 The analysis of the electric vehicle market in India is based on three primary datasets:
 1.	Electric Vehicle Sales by State (electric_vehicle_sales_by_state.csv)
     Description: This dataset contains detailed sales data for electric vehicles in India, segmented by state, vehicle category (e.g., cars, two-wheelers), and 
@@ -37,12 +39,14 @@ The analysis of the electric vehicle market in India is based on three primary d
     Columns: The key columns include date, fiscal_year, quarter, and month_name. This table is critical for time-based analysis, including calculating year-over- 
              year growth and other time-based metrics.
 
-##Data Processing and Transformation
+Data Processing and Transformation
+
 •	Data Cleaning: Removing duplicates, correcting errors.
 •	Creating Calculated Columns or Measures: calculating the market penetration rate (EV sales divided by total vehicle sales).
 •	Joining Datasets: Joined 3 datasets with one to many relationship with column date in each dataset.
 
-##Dashboard overview
+Dashboard overview
+
 Page 1:This page gives the introduction in which there are two navigators when for the makers and the other for the state. Analysis is performed individually on makers and state. This dashboard consists of 4 pages.
 
 Page 2:This page shows the analysis of the makers in which ola electric, tvs ,ather, hero electric are the top sellers for the EV vehicles. Slicers have been made for more comparison among the makers. In India, till now there are 26 makers of EV in which ola electric have shown significant growth over the year from 2021 -2024.Till now 2M vehicles have been sold.
@@ -54,7 +58,8 @@ Page 4:This page shows State analysis that there are total 34 state and UT where
 Page 5:This page shows the goa has the high adoption rate till now. This table shows the adoption rate and states of all which can be compared.
 
 
-##Analysis and Findings
+Analysis and Findings
+
 •	Ola Electric are the top performer overall and in 2 wheeler.
 •	Tata motor is top performer for 4 wheeler.
 •	Maharashtra is top state for EV.
