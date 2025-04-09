@@ -11,7 +11,7 @@ The primary objectives of this analysis are:
 This Project serves as a valuable tool for understanding the dynamics of the EV market in India and supports data-driven decision-making to accelerate the adoption of electric vehicles in the country.
 
 
-##Introduction
+###Introduction
 The electric vehicle market in India has witnessed significant growth in recent years, driven by government incentives, rising environmental awareness, and technological advancements. It provides an in-depth analysis of EV sales trends, regional adoption, and the growth outlook for the sector. Understanding these factors is essential for manufacturers, policymakers, and investors aiming to promote EV adoption and expand market share in a rapidly evolving industry.
 
 
